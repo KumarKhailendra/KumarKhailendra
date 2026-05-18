@@ -21,7 +21,7 @@
       <td align="center" valign="middle" width="170">
         <div align="center">
           <a href="https://github.com/KumarKhailendra?tab=repositories">
-            <b>37</b>
+            <b>43</b>
           </a>
           <br />
           <sub>Public Repos</sub>
