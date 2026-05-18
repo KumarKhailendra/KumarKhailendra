@@ -64,7 +64,7 @@ I enjoy working with **JavaScript**, **TypeScript**, frontend interfaces, backen
 Current focus     AI web apps, full-stack projects, clean UI
 Main stack        JavaScript, TypeScript, React, Next.js, Node.js
 Learning path     Better architecture, scalable APIs, polished UX
-Open to           Collaboration, internships, freelance projects
+Open to           Collaboration, full-time work, freelance projects
 ```
 
 ---
